@@ -17,3 +17,4 @@ build:
 npm install
 npm run build
 ```
+![example](https://user-images.githubusercontent.com/9358828/195496535-483d3576-5af5-4400-bd7f-1960c7b04472.png)
